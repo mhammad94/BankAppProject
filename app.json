@@ -1,0 +1,86 @@
+[
+  {
+    "id": 22,
+    "UserName": "hammad94",
+    "Password": "123",
+    "Balance": "5000",
+    "Details": [
+      {
+        "Name": "Hammad",
+        "Email": "muhammadhammad.94@gmail.com",
+        "Phone": "2818996633",
+        "Account": "85154"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "UserName": "ali123",
+    "Password": "123",
+    "Balance": "2000",
+    "Details": [
+      {
+        "Name": "Muhammad Ali",
+        "Email": "ali@gmail.com",
+        "Phone": "2262198",
+        "Account": "1037294"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "UserName": "dave123",
+    "Password": "123",
+    "Balance": "20000",
+    "Details": [
+      {
+        "Name": "Dave Ellen",
+        "Email": "dave@gmail.com",
+        "Phone": "2262198",
+        "Account": "8416811"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "UserName": "hammad94",
+    "Password": "1234",
+    "Balance": "1000",
+    "Details": [
+      {
+        "Name": "Hammad",
+        "Email": "muhammadhammad.94@gmail.com",
+        "Phone": "123",
+        "Account": "1386866"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "UserName": "q123",
+    "Password": "123",
+    "Balance": "1000",
+    "Details": [
+      {
+        "Name": "Abdul Qayum",
+        "Email": "qayum@gmail.com",
+        "Phone": "1234",
+        "Account": "4069701"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "UserName": "zaid123",
+    "Password": "123",
+    "Balance": "12000",
+    "Details": [
+      {
+        "Name": "Zaid Khan",
+        "Email": "zaid@gmail.com",
+        "Phone": "123456",
+        "Account": "815836"
+      }
+    ]
+  }
+]
